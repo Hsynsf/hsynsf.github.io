@@ -16,14 +16,14 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
-    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "gdpr": "",
     "google-analytics": "",
     "siteUrl": "",
     "uniqCompNum": 25,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "on",
+    "robotsSwitcher": "",
     "sitemapSwitcherAuto": "on"
   },
   "pages": {
