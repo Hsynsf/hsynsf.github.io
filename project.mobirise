@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GRD",
-    "currentPage": "page5.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -14,7 +14,7 @@
     "versionFirst": "4.8.1",
     "siteFonts": [],
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "cookiesAlert": "",
     "gdpr": "",
     "google-analytics": "",
@@ -370,68 +370,6 @@
         }
       ]
     },
-    "page1.html": {
-      "settings": {
-        "title": "KARTONPIYER",
-        "order": 6
-      },
-      "components": [
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#0275d8"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Anasayfa</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn-parent\"></span>Kurumsal</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#features1-5\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn-parent\"></span>Projeler</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#contacts2-h\"><span class=\"mbri-pin mbr-iconfont mbr-iconfont-btn-parent\"></span>Bize Ulasın</a></li>     ",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/capture-160x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">G R D GRUP INSAAT</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#0275d8"
-            },
-            ".nav-link": {
-              "font-size": "30px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".navbar-brand": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".nav-link SPAN": {
-              "font-size": "30px"
-            }
-          },
-          "_anchor": "menu-7"
-        }
-      ]
-    },
     "page2.html": {
       "settings": {
         "title": "ASMA TAVAN",
@@ -545,9 +483,9 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/asma-tavan-4-865x562.jpg",
                 "active": false,
-                "showButtons": true,
+                "showButtons": false,
                 "showText": false,
-                "showTitle": true,
+                "showTitle": false,
                 "title": "Slide 3",
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -751,68 +689,6 @@
         }
       ]
     },
-    "page4.html": {
-      "settings": {
-        "title": "TADILAT",
-        "order": 3
-      },
-      "components": [
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#0275d8"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Anasayfa</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn-parent\"></span>Kurumsal</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#features1-5\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn-parent\"></span>Projeler</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#contacts2-h\"><span class=\"mbri-pin mbr-iconfont mbr-iconfont-btn-parent\"></span>Bize Ulasın</a></li>     ",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/capture-160x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">G R D GRUP INSAAT</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#0275d8"
-            },
-            ".nav-link": {
-              "font-size": "30px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".navbar-brand": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".nav-link SPAN": {
-              "font-size": "30px"
-            }
-          },
-          "_anchor": "menu-a"
-        }
-      ]
-    },
     "page5.html": {
       "settings": {
         "title": "KURUMSAL",
@@ -948,68 +824,6 @@
               "color": "#ffffff"
             }
           }
-        }
-      ]
-    },
-    "page6.html": {
-      "settings": {
-        "title": "PROJELER",
-        "order": 1
-      },
-      "components": [
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#0275d8"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Anasayfa</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn-parent\"></span>Kurumsal</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#features1-5\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn-parent\"></span>Projeler</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#contacts2-h\"><span class=\"mbri-pin mbr-iconfont mbr-iconfont-btn-parent\"></span>Bize Ulasın</a></li>     ",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/capture-160x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">G R D GRUP INSAAT</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#0275d8"
-            },
-            ".nav-link": {
-              "font-size": "30px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".navbar-brand": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".nav-link SPAN": {
-              "font-size": "30px"
-            }
-          },
-          "_anchor": "menu-c"
         }
       ]
     }

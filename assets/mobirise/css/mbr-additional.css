@@ -43,21 +43,6 @@
 }
 
 
-#menu-7 .navbar-toggler {
-  color: #0275d8;
-}
-#menu-7 .nav-link {
-  font-size: 30px;
-  font-family: 'Oswald', sans-serif;
-}
-#menu-7 .navbar-brand {
-  font-family: 'Oswald', sans-serif;
-}
-#menu-7 .nav-link SPAN {
-  font-size: 30px;
-}
-
-
 #menu-8 .navbar-toggler {
   color: #0275d8;
 }
@@ -101,21 +86,6 @@
 }
 
 
-#menu-a .navbar-toggler {
-  color: #0275d8;
-}
-#menu-a .nav-link {
-  font-size: 30px;
-  font-family: 'Oswald', sans-serif;
-}
-#menu-a .navbar-brand {
-  font-family: 'Oswald', sans-serif;
-}
-#menu-a .nav-link SPAN {
-  font-size: 30px;
-}
-
-
 #menu-b .navbar-toggler {
   color: #0275d8;
 }
@@ -142,19 +112,4 @@
 }
 #contacts2-h STRONG {
   color: #ffffff;
-}
-
-
-#menu-c .navbar-toggler {
-  color: #0275d8;
-}
-#menu-c .nav-link {
-  font-size: 30px;
-  font-family: 'Oswald', sans-serif;
-}
-#menu-c .navbar-brand {
-  font-family: 'Oswald', sans-serif;
-}
-#menu-c .nav-link SPAN {
-  font-size: 30px;
 }
