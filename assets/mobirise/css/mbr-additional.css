@@ -43,49 +43,6 @@
 }
 
 
-#menu-8 .navbar-toggler {
-  color: #0275d8;
-}
-#menu-8 .nav-link {
-  font-size: 30px;
-  font-family: 'Oswald', sans-serif;
-}
-#menu-8 .navbar-brand {
-  font-family: 'Oswald', sans-serif;
-}
-#menu-8 .nav-link SPAN {
-  font-size: 30px;
-}
-#header3-o H3 {
-  text-align: center;
-}
-#contacts2-h P {
-  font-size: 20px;
-  color: #feeaba;
-}
-#contacts2-h DIV {
-  color: #fbf2be;
-}
-#contacts2-h STRONG {
-  color: #ffffff;
-}
-
-
-#menu-9 .navbar-toggler {
-  color: #0275d8;
-}
-#menu-9 .nav-link {
-  font-size: 30px;
-  font-family: 'Oswald', sans-serif;
-}
-#menu-9 .navbar-brand {
-  font-family: 'Oswald', sans-serif;
-}
-#menu-9 .nav-link SPAN {
-  font-size: 30px;
-}
-
-
 #menu-b .navbar-toggler {
   color: #0275d8;
 }
@@ -107,5 +64,30 @@
   color: #fbf2be;
 }
 #contacts2-h STRONG {
+  color: #ffffff;
+}
+
+
+#menu-t .navbar-toggler {
+  color: #0275d8;
+}
+#menu-t .nav-link {
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-t .navbar-brand {
+  font-family: 'Oswald', sans-serif;
+}
+#menu-t .nav-link SPAN {
+  font-size: 30px;
+}
+#contacts2-u P {
+  font-size: 20px;
+  color: #feeaba;
+}
+#contacts2-u DIV {
+  color: #fbf2be;
+}
+#contacts2-u STRONG {
   color: #ffffff;
 }
